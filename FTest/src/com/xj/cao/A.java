@@ -5,4 +5,9 @@ public class A {
   
   
   void test2() {};
+  
+  /**
+   * xcc的代码
+   */
+  void xcc() {};
 }
