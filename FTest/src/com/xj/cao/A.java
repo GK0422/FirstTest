@@ -5,4 +5,8 @@ public class A {
   
   
   void test2() {};
+  /**
+   * 主分支的方法
+   */
+  void aaa() {};
 }
